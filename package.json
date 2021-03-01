@@ -27,7 +27,7 @@
     "parcel-plugin-asset-copier": "^1.0.0",
     "postprocessing": "^5.2.2",
     "shx": "^0.3.2",
-    "three": "^0.98.0",
+    "three": "^0.125.0",
     "three-orbit-controls": "^82.1.0"
   },
   "assetsPath": "assets"
